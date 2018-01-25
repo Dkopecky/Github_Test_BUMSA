@@ -1,0 +1,16 @@
+---
+title: "Github Readme"
+author: "Derek K., Treva W., Patrick P., Ian O."
+date: "January 25, 2018"
+output: html_document
+---
+
+#### Overview
+
+This is my git example for class
+
+```{r, echo=FALSE}
+hist(rnorm(100))
+
+```
+
