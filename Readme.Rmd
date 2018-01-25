@@ -1,6 +1,6 @@
 ---
 title: "Github Readme"
-author: "Derek K., Treva W., Patrick P., Ian O."
+author: "Derek K""
 date: "January 25, 2018"
 output: html_document
 ---
